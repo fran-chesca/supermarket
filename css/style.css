@@ -1,0 +1,23 @@
+form{
+    background-color: aqua;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding: 10px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 10px;
+}
+
+input{
+    width: 95%;
+    padding: 5px;
+    outline: none;
+}
+
+form button{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+    color: white;
+    border: none;
+}
